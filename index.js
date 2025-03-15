@@ -1,0 +1,1 @@
+window.alert(`Recomended to use the app https://www.youtube.com/watch?v=8H44gASQskI`);
