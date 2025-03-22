@@ -1,0 +1,1 @@
+window.alert(`Recomended to install as an app`);
